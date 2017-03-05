@@ -1,0 +1,3 @@
+<?php
+
+$MESS["HLLIST_COMPONENT_BLOCK_ID_PARAM"] = "ID hl-блока";
